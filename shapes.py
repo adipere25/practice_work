@@ -2,17 +2,17 @@ import math
 
 # Area of a Cicle
 
-# radius = float(input("Enter the radius of the circle: "))
-# area_circle = math.pi * radius ** 2
-# print(f"The area of the circle with radius {radius} is: {area_circle:.2f}")
+radius = float(input("Enter the radius of the circle: "))
+area_circle = math.pi * radius ** 2
+print(f"The area of the circle with radius {radius} is: {area_circle:.2f}")
 
 print("")  # just a blank line for better readability
 
 # Area of a Triangle
-# base = float(input("Enter the base of the triangle: "))
-# height = float(input("Enter the height of the triangle: "))
-# area_triangle = 0.5 * base * height
-# print(f"The area of the triangle with base {base} and height {height} is: {area_triangle:.2f}") 
+base = float(input("Enter the base of the triangle: "))
+height = float(input("Enter the height of the triangle: "))
+area_triangle = 0.5 * base * height
+print(f"The area of the triangle with base {base} and height {height} is: {area_triangle:.2f}") 
 
 print("")
 
