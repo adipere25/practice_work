@@ -31,3 +31,7 @@ print("")
 string3 = input("Please enter one more string: ")
 print(f"The length of your string is: {len(string3)}")
 
+
+
+#7
+
